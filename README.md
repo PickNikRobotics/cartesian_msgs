@@ -1,6 +1,6 @@
 # Cartesian Msgs
 
-Experimental messages for sending cartesian commands to a robot. There has never been a consensus for what this should look like, see [Cartesian Trajectories API Review](http://wiki.ros.org/trajectory_msgs/Reviews/Cartesian%20Trajectories_API_Review_2013_06_05) for related discission.
+Experimental messages for sending Cartesian commands to a robot. There has never been a consensus for what this should look like, see [Cartesian Trajectories API Review](http://wiki.ros.org/trajectory_msgs/Reviews/Cartesian%20Trajectories_API_Review_2013_06_05) for related discission.
 
 Features:
 
