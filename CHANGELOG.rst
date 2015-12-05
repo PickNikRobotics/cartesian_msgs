@@ -2,8 +2,8 @@
 Changelog for package cartesian_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.3 (2015-12-05)
+------------------
 * catkin lint cleanup
 * Contributors: Dave Coleman
 
