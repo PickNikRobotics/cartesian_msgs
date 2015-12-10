@@ -9,7 +9,7 @@ Features:
 Status:
 
  * [![Build Status](https://travis-ci.org/davetcoleman/cartesian_msgs.svg)](https://travis-ci.org/davetcoleman/cartesian_msgs) Travis CI
- * [![Devel Job Status](http://jenkins.ros.org/buildStatus/icon?job=devel-jade-cartesian-msgs)](http://jenkins.ros.org/job/devel-jade-cartesian_msgs) Devel Job Status
+ * [![Devel Job Status](http://jenkins.ros.org/buildStatus/icon?job=devel-jade-cartesian_msgs)](http://jenkins.ros.org/job/devel-jade-cartesian_msgs) Devel Job Status
  * [![Build Status](http://jenkins.ros.org/buildStatus/icon?job=ros-jade-cartesian-msgs_binarydeb_trusty_amd64)](http://jenkins.ros.org/job/ros-jade-cartesian-msgs_binarydeb_trusty_amd64/) AMD64 Debian Job Status
 
 ## Install
